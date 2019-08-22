@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcscr019",
+    "preamble": {
+        "en": "Some young people worry a lot. They may often feel nervous, anxious or unable to relax.  They may have times when they worry a lot more than usual."
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "Why did he/she say that you were a worrier?"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

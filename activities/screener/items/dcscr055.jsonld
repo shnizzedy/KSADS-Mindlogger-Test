@@ -1,0 +1,41 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcscr055",
+    "preamble": {
+        "en": "Some people have unpleasant thoughts or feelings to do things that keep coming back over and over again and they can't get them out of their head. These thoughts sometimes make these people feel like they have to do things over and over again (like washing their hands, counting, or checking things). "
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Did these thoughts continue to bother you no matter how hard you tried to get rid of them or ignore them?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No "
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Yes "
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Unk"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

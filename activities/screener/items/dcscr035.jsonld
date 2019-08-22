@@ -1,0 +1,21 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcscr035",
+    "preamble": {
+        "en": "Some young people do other things that may get them into trouble with adults like breaking rules or getting into trouble with the police or other authorities if they get caught. They may lie a lot, steal, skip school, smoke or drink."
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "If yes, what happened?"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

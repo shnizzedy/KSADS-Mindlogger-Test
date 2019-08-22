@@ -1,0 +1,41 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcscr046",
+    "preamble": {
+        "en": "Some people have what we call \"panic or anxiety attacks\".  In these kinds of attacks, people become very scared, even though there is nothing around to frighten them.  Sometimes, they feel they can't breathe or their heart beats fast.  The attacks come on very quickly and then go away."
+    },
+    "ui": {
+        "inputType": "radio"
+    },
+    "question": {
+        "en": "Have you ever had an attack like this?"
+    },
+    "responseOptions": {
+        "choices": [
+            {
+                "schema:value": 0,
+                "schema:name": {
+                    "en": "No "
+                }
+            },
+            {
+                "schema:value": 1,
+                "schema:name": {
+                    "en": "Yes "
+                }
+            },
+            {
+                "schema:value": 9,
+                "schema:name": {
+                    "en": "Unk"
+                }
+            }
+        ],
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

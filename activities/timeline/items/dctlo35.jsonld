@@ -1,0 +1,24 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dctlo35",
+    "preamble": {
+        "en": "\nHow are you doing in school? What subjects do you have? What kind of grades do you get?\n\nPlease rate academic subjects on the following scale. List any additional academic subjects and review ratings. "
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "Other subject 2"
+    },
+    "schema:description": {
+        "en": "OTHER SUBJECT 2"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}

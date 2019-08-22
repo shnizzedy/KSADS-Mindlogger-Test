@@ -1,0 +1,24 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "skos:altLabel": "dcscr062",
+    "preamble": {
+        "en": "What is the longest period that you have had these thoughts or behaviors?"
+    },
+    "ui": {
+        "inputType": "text"
+    },
+    "question": {
+        "en": "N of Months"
+    },
+    "schema:description": {
+        "en": "MONTHS"
+    },
+    "responseOptions": {
+        "minValue": "",
+        "maxValue": "",
+        "requiredValue": ""
+    }
+}
