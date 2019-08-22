@@ -4,7 +4,7 @@
                 ],
   "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/ActivitySet.jsonld",
   "@id": "ksads_schema",
-  "skos:prefLabel": "KSADS Interview",
+  "skos:prefLabel": "KSADS Interview Test1",
   "skos:altLabel": "ksads",
   "schema:description": "activity set for KSADS",
   "schema:schemaVersion": "0.0.1",
