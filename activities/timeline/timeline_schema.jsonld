@@ -13,86 +13,6 @@
     "scoringLogic": {},
     "variableMap": [
         {
-            "variableName": "dctlo005",
-            "isAbout": "dctlo005"
-        },
-        {
-            "variableName": "dctlo008",
-            "isAbout": "dctlo008"
-        },
-        {
-            "variableName": "dctlo009",
-            "isAbout": "dctlo009"
-        },
-        {
-            "variableName": "dctlo010",
-            "isAbout": "dctlo010"
-        },
-        {
-            "variableName": "dctlo011",
-            "isAbout": "dctlo011"
-        },
-        {
-            "variableName": "dctlo012",
-            "isAbout": "dctlo012"
-        },
-        {
-            "variableName": "dctlo013",
-            "isAbout": "dctlo013"
-        },
-        {
-            "variableName": "dctlo014",
-            "isAbout": "dctlo014"
-        },
-        {
-            "variableName": "dctlo015",
-            "isAbout": "dctlo015"
-        },
-        {
-            "variableName": "dctlo016",
-            "isAbout": "dctlo016"
-        },
-        {
-            "variableName": "dctlo017",
-            "isAbout": "dctlo017"
-        },
-        {
-            "variableName": "dctlo018",
-            "isAbout": "dctlo018"
-        },
-        {
-            "variableName": "dctlo019",
-            "isAbout": "dctlo019"
-        },
-        {
-            "variableName": "dctlo020",
-            "isAbout": "dctlo020"
-        },
-        {
-            "variableName": "dctlo021",
-            "isAbout": "dctlo021"
-        },
-        {
-            "variableName": "dctlo022",
-            "isAbout": "dctlo022"
-        },
-        {
-            "variableName": "dctlo023",
-            "isAbout": "dctlo023"
-        },
-        {
-            "variableName": "dctlo024",
-            "isAbout": "dctlo024"
-        },
-        {
-            "variableName": "dctlo025",
-            "isAbout": "dctlo025"
-        },
-        {
-            "variableName": "dctlo026",
-            "isAbout": "dctlo026"
-        },
-        {
             "variableName": "ctlo0",
             "isAbout": "ctlo0"
         },
@@ -243,26 +163,6 @@
     ],
     "ui": {
         "order": [
-            "dctlo005",
-            "dctlo008",
-            "dctlo009",
-            "dctlo010",
-            "dctlo011",
-            "dctlo012",
-            "dctlo013",
-            "dctlo014",
-            "dctlo015",
-            "dctlo016",
-            "dctlo017",
-            "dctlo018",
-            "dctlo019",
-            "dctlo020",
-            "dctlo021",
-            "dctlo022",
-            "dctlo023",
-            "dctlo024",
-            "dctlo025",
-            "dctlo026",
             "ctlo0",
             "dctlo027",
             "dctlo028",
@@ -303,26 +203,6 @@
         ],
         "shuffle": false,
         "visibility": {
-            "dctlo005": true,
-            "dctlo008": true,
-            "dctlo009": true,
-            "dctlo010": true,
-            "dctlo011": true,
-            "dctlo012": true,
-            "dctlo013": true,
-            "dctlo014": true,
-            "dctlo015": true,
-            "dctlo016": true,
-            "dctlo017": true,
-            "dctlo018": true,
-            "dctlo019": true,
-            "dctlo020": true,
-            "dctlo021": true,
-            "dctlo022": true,
-            "dctlo023": true,
-            "dctlo024": true,
-            "dctlo025": true,
-            "dctlo026": true,
             "ctlo0": true,
             "dctlo027": " ctlo0   == '0'",
             "dctlo028": " ctlo0   == '0'",
