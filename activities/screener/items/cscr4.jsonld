@@ -8,7 +8,7 @@
         "en": "I'm now going to ask you some more questions about your feelings, behavior and mood."
     },
     "ui": {
-        "inputType": "text"
+        "inputType": "static"
     },
     "responseOptions": {
         "minValue": "",
