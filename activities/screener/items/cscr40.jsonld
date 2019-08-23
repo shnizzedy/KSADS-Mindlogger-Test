@@ -8,7 +8,7 @@
         "en": "HALLUCINATIONS"
     },
     "ui": {
-        "inputType": "static"
+        "inputType": "text"
     },
     "question": {
         "en": "INTERVIEWER: If any hallucination questions endorsed, ask next question ONLY to parent."
