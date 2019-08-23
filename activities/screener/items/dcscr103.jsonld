@@ -4,6 +4,9 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr103",
+    "preamble": {
+        "en": "INTERMITTENT EXPLOSIVE DISORDER"
+    },
     "ui": {
         "inputType": "radio"
     },
