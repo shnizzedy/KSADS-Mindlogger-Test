@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "cscr44",
-    "preamble": {
-        "en": "INTERVIEWER: Use clinical judgement here to rate positively. The item broken should be something of value like a car window or punching holes in the wall, not minor things like breaking a pencil."
-    },
     "ui": {
         "inputType": "radio"
     },

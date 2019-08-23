@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr065",
-    "preamble": {
-        "en": "What is the longest period that you have had these thoughts or behaviors?"
-    },
     "ui": {
         "inputType": "radio"
     },

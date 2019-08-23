@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr117",
-    "preamble": {
-        "en": "Participant Card 5 (Stressful Experiences) "
-    },
     "ui": {
         "inputType": "radio"
     },

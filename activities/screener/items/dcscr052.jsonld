@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr052",
-    "preamble": {
-        "en": "AGORAPHOBIA"
-    },
     "ui": {
         "inputType": "radio"
     },

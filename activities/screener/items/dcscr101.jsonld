@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr101",
-    "preamble": {
-        "en": "DELUSIONS"
-    },
     "ui": {
         "inputType": "radio"
     },

@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr040",
-    "preamble": {
-        "en": " "
-    },
     "ui": {
         "inputType": "radio"
     },

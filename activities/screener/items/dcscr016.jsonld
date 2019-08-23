@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr016",
-    "preamble": {
-        "en": "Some young people worry a lot. They may often feel nervous, anxious or unable to relax.  They may have times when they worry a lot more than usual."
-    },
     "ui": {
         "inputType": "radio"
     },

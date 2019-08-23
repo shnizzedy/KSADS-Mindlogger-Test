@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr010",
-    "preamble": {
-        "en": "IN-PATIENT TREATMENT"
-    },
     "ui": {
         "inputType": "radio"
     },

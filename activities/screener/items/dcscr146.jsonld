@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr146",
-    "preamble": {
-        "en": "TOBACCO"
-    },
     "ui": {
         "inputType": "radio"
     },

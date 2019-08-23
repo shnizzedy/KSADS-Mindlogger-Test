@@ -4,9 +4,6 @@
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "skos:altLabel": "dcscr131",
-    "preamble": {
-        "en": "SUBSTANCE USE"
-    },
     "ui": {
         "inputType": "radio"
     },
