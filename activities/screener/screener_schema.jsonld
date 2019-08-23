@@ -962,8 +962,8 @@
             "dcscr144a": " dcscr143   == '1' ",
             "dcscr145": true,
             "dcscr146": " dcscr145   == '0' ",
-            "dcscr148": true,
-            "dcscr149": true,
+            "dcscr148": " dcscr146   == '10'",
+            "dcscr149": " dcscr146   == '10'",
             "dcscr150": true,
             "dcscr151": " dcscr150   == '1'"
         }
