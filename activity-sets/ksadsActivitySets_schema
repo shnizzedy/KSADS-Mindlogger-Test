@@ -1,8 +1,8 @@
 {
-  "@context": [ "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/contexts/generic",
-                "https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-test/master/activity-sets/ksadsActivitySets_context"
+  "@context": [ "https://raw.githubusercontent.com/shnizzedy/schema-standardization/master/contexts/generic",
+                "https://raw.githubusercontent.com/shnizzedy/KSADS-Mindlogger-test/master/activity-sets/ksadsActivitySets_context"
                 ],
-  "@type": "https://raw.githubusercontent.com/hotavocado/schema-standardization/master/schemas/ActivitySet",
+  "@type": "https://raw.githubusercontent.com/shnizzedy/schema-standardization/master/schemas/ActivitySet",
   "@id": "ksads_schema",
   "skos:prefLabel": "KSADS Interview Test1",
   "skos:altLabel": "ksads",

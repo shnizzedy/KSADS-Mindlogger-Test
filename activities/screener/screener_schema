@@ -1,7 +1,7 @@
 {
     "@context": [
         "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
-        "https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-Test/master/activities/screener/screener_context"
+        "https://raw.githubusercontent.com/shnizzedy/KSADS-Mindlogger-Test/master/activities/screener/screener_context"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity",
     "@id": "screener_schema",

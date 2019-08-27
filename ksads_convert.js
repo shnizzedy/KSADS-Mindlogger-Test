@@ -76,7 +76,7 @@ csv
         Object.keys(datas).forEach(form => {
             let fieldList = datas[form]; // all items of an activity
             createFormContextSchema(form, fieldList); // create context for each activity
-            let formContextUrl = `https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-Test/master/activities/${form}/${form}_context`;
+            let formContextUrl = `https://raw.githubusercontent.com/shnizzedy/KSADS-Mindlogger-Test/master/activities/${form}/${form}_context`;
             scoresObj = {};
             visibilityObj = {};
             variableMap = [];
@@ -95,7 +95,7 @@ function createFormContextSchema(form, fieldList) {
     // define context file for each form
     let itemOBj = { "@version": 1.1 };
     let formContext = {};
-    itemOBj[form] = `https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-Test/master/activities/${form}/items/`;
+    itemOBj[form] = `https://raw.githubusercontent.com/shnizzedy/KSADS-Mindlogger-Test/master/activities/${form}/items/`;
     fieldList.forEach( field => {
         let field_name = field['Variable / Field Name'];
         // define item_x urls to be inserted in context for the corresponding form
