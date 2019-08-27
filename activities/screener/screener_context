@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "screener": "https://raw.githubusercontent.com/shnizzedy/KSADS-Mindlogger-Test/master/activities/screener/items/",
+        "screener": "https://shnizzedy.github.io/KSADS-Mindlogger-Test/master/activities/screener/items/",
         "dcscr005": {
             "@id": "screener:dcscr005",
             "@type": "@id"

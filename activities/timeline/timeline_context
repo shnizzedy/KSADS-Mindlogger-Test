@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "timeline": "https://raw.githubusercontent.com/shnizzedy/KSADS-Mindlogger-Test/master/activities/timeline/items/",
+        "timeline": "https://shnizzedy.github.io/KSADS-Mindlogger-Test/master/activities/timeline/items/",
         "ctlo0": {
             "@id": "timeline:ctlo0",
             "@type": "@id"
