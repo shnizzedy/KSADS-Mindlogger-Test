@@ -1,0 +1,971 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/KSADS-Mindlogger-Test/master/activities/screener/screener_context"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity",
+    "@id": "screener_schema",
+    "skos:prefLabel": "screener_schema",
+    "skos:altLabel": "screener_schema",
+    "schema:description": "screener schema",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "variableMap": [
+        {
+            "variableName": "dcscr005",
+            "isAbout": "dcscr005"
+        },
+        {
+            "variableName": "dcscr006",
+            "isAbout": "dcscr006"
+        },
+        {
+            "variableName": "dcscr007",
+            "isAbout": "dcscr007"
+        },
+        {
+            "variableName": "dcscr008",
+            "isAbout": "dcscr008"
+        },
+        {
+            "variableName": "dcscr009",
+            "isAbout": "dcscr009"
+        },
+        {
+            "variableName": "dcscr010",
+            "isAbout": "dcscr010"
+        },
+        {
+            "variableName": "dcscr011",
+            "isAbout": "dcscr011"
+        },
+        {
+            "variableName": "dcscr012",
+            "isAbout": "dcscr012"
+        },
+        {
+            "variableName": "dcscr013",
+            "isAbout": "dcscr013"
+        },
+        {
+            "variableName": "cscr4",
+            "isAbout": "cscr4"
+        },
+        {
+            "variableName": "dcscr014",
+            "isAbout": "dcscr014"
+        },
+        {
+            "variableName": "dcscr015",
+            "isAbout": "dcscr015"
+        },
+        {
+            "variableName": "dcscr016",
+            "isAbout": "dcscr016"
+        },
+        {
+            "variableName": "dcscr017",
+            "isAbout": "dcscr017"
+        },
+        {
+            "variableName": "dcscr018",
+            "isAbout": "dcscr018"
+        },
+        {
+            "variableName": "dcscr019",
+            "isAbout": "dcscr019"
+        },
+        {
+            "variableName": "dcscr020",
+            "isAbout": "dcscr020"
+        },
+        {
+            "variableName": "dcscr021",
+            "isAbout": "dcscr021"
+        },
+        {
+            "variableName": "dcscr022",
+            "isAbout": "dcscr022"
+        },
+        {
+            "variableName": "dcscr023",
+            "isAbout": "dcscr023"
+        },
+        {
+            "variableName": "dcscr024",
+            "isAbout": "dcscr024"
+        },
+        {
+            "variableName": "dcscr025",
+            "isAbout": "dcscr025"
+        },
+        {
+            "variableName": "dcscr026",
+            "isAbout": "dcscr026"
+        },
+        {
+            "variableName": "dcscr027",
+            "isAbout": "dcscr027"
+        },
+        {
+            "variableName": "dcscr028",
+            "isAbout": "dcscr028"
+        },
+        {
+            "variableName": "dcscr029",
+            "isAbout": "dcscr029"
+        },
+        {
+            "variableName": "dcscr030",
+            "isAbout": "dcscr030"
+        },
+        {
+            "variableName": "dcscr031",
+            "isAbout": "dcscr031"
+        },
+        {
+            "variableName": "dcscr032",
+            "isAbout": "dcscr032"
+        },
+        {
+            "variableName": "dcscr033",
+            "isAbout": "dcscr033"
+        },
+        {
+            "variableName": "dcscr034",
+            "isAbout": "dcscr034"
+        },
+        {
+            "variableName": "dcscr035",
+            "isAbout": "dcscr035"
+        },
+        {
+            "variableName": "dcscr036",
+            "isAbout": "dcscr036"
+        },
+        {
+            "variableName": "dcscr037",
+            "isAbout": "dcscr037"
+        },
+        {
+            "variableName": "dcscr038",
+            "isAbout": "dcscr038"
+        },
+        {
+            "variableName": "dcscr039",
+            "isAbout": "dcscr039"
+        },
+        {
+            "variableName": "dcscr040",
+            "isAbout": "dcscr040"
+        },
+        {
+            "variableName": "dcscr041",
+            "isAbout": "dcscr041"
+        },
+        {
+            "variableName": "dcscr042",
+            "isAbout": "dcscr042"
+        },
+        {
+            "variableName": "dcscr043",
+            "isAbout": "dcscr043"
+        },
+        {
+            "variableName": "dcscr044",
+            "isAbout": "dcscr044"
+        },
+        {
+            "variableName": "dcscr045",
+            "isAbout": "dcscr045"
+        },
+        {
+            "variableName": "dcscr046",
+            "isAbout": "dcscr046"
+        },
+        {
+            "variableName": "dcscr047",
+            "isAbout": "dcscr047"
+        },
+        {
+            "variableName": "dcscr048",
+            "isAbout": "dcscr048"
+        },
+        {
+            "variableName": "dcscr049",
+            "isAbout": "dcscr049"
+        },
+        {
+            "variableName": "dcscr050",
+            "isAbout": "dcscr050"
+        },
+        {
+            "variableName": "dcscr051",
+            "isAbout": "dcscr051"
+        },
+        {
+            "variableName": "dcscr052",
+            "isAbout": "dcscr052"
+        },
+        {
+            "variableName": "dcscr053",
+            "isAbout": "dcscr053"
+        },
+        {
+            "variableName": "dcscr054",
+            "isAbout": "dcscr054"
+        },
+        {
+            "variableName": "dcscr055",
+            "isAbout": "dcscr055"
+        },
+        {
+            "variableName": "dcscr056",
+            "isAbout": "dcscr056"
+        },
+        {
+            "variableName": "dcscr057",
+            "isAbout": "dcscr057"
+        },
+        {
+            "variableName": "dcscr058",
+            "isAbout": "dcscr058"
+        },
+        {
+            "variableName": "dcscr059",
+            "isAbout": "dcscr059"
+        },
+        {
+            "variableName": "dcscr060",
+            "isAbout": "dcscr060"
+        },
+        {
+            "variableName": "dcscr061",
+            "isAbout": "dcscr061"
+        },
+        {
+            "variableName": "dcscr062",
+            "isAbout": "dcscr062"
+        },
+        {
+            "variableName": "dcscr063",
+            "isAbout": "dcscr063"
+        },
+        {
+            "variableName": "dcscr064",
+            "isAbout": "dcscr064"
+        },
+        {
+            "variableName": "dcscr065",
+            "isAbout": "dcscr065"
+        },
+        {
+            "variableName": "dcscr066",
+            "isAbout": "dcscr066"
+        },
+        {
+            "variableName": "dcscr067",
+            "isAbout": "dcscr067"
+        },
+        {
+            "variableName": "dcscr068",
+            "isAbout": "dcscr068"
+        },
+        {
+            "variableName": "dcscr069",
+            "isAbout": "dcscr069"
+        },
+        {
+            "variableName": "dcscr070",
+            "isAbout": "dcscr070"
+        },
+        {
+            "variableName": "dcscr071",
+            "isAbout": "dcscr071"
+        },
+        {
+            "variableName": "dcscr072",
+            "isAbout": "dcscr072"
+        },
+        {
+            "variableName": "dcscr073",
+            "isAbout": "dcscr073"
+        },
+        {
+            "variableName": "dcscr074",
+            "isAbout": "dcscr074"
+        },
+        {
+            "variableName": "dcscr075",
+            "isAbout": "dcscr075"
+        },
+        {
+            "variableName": "dcscr076",
+            "isAbout": "dcscr076"
+        },
+        {
+            "variableName": "dcscr077",
+            "isAbout": "dcscr077"
+        },
+        {
+            "variableName": "dcscr078",
+            "isAbout": "dcscr078"
+        },
+        {
+            "variableName": "dcscr079",
+            "isAbout": "dcscr079"
+        },
+        {
+            "variableName": "dcscr080",
+            "isAbout": "dcscr080"
+        },
+        {
+            "variableName": "dcscr081",
+            "isAbout": "dcscr081"
+        },
+        {
+            "variableName": "dcscr082",
+            "isAbout": "dcscr082"
+        },
+        {
+            "variableName": "dcscr083",
+            "isAbout": "dcscr083"
+        },
+        {
+            "variableName": "dcscr084",
+            "isAbout": "dcscr084"
+        },
+        {
+            "variableName": "dcscr085",
+            "isAbout": "dcscr085"
+        },
+        {
+            "variableName": "dcscr086",
+            "isAbout": "dcscr086"
+        },
+        {
+            "variableName": "dcscr087",
+            "isAbout": "dcscr087"
+        },
+        {
+            "variableName": "dcscr088",
+            "isAbout": "dcscr088"
+        },
+        {
+            "variableName": "dcscr089",
+            "isAbout": "dcscr089"
+        },
+        {
+            "variableName": "dcscr090",
+            "isAbout": "dcscr090"
+        },
+        {
+            "variableName": "dcscr091",
+            "isAbout": "dcscr091"
+        },
+        {
+            "variableName": "dcscr092",
+            "isAbout": "dcscr092"
+        },
+        {
+            "variableName": "dcscr093",
+            "isAbout": "dcscr093"
+        },
+        {
+            "variableName": "dcscr094",
+            "isAbout": "dcscr094"
+        },
+        {
+            "variableName": "dcscr095a",
+            "isAbout": "dcscr095a"
+        },
+        {
+            "variableName": "dcscr095b",
+            "isAbout": "dcscr095b"
+        },
+        {
+            "variableName": "dcscr095c",
+            "isAbout": "dcscr095c"
+        },
+        {
+            "variableName": "dcscr095d",
+            "isAbout": "dcscr095d"
+        },
+        {
+            "variableName": "cscr40",
+            "isAbout": "cscr40"
+        },
+        {
+            "variableName": "dcscr096",
+            "isAbout": "dcscr096"
+        },
+        {
+            "variableName": "dcscr097",
+            "isAbout": "dcscr097"
+        },
+        {
+            "variableName": "dcscr098",
+            "isAbout": "dcscr098"
+        },
+        {
+            "variableName": "dcscr099",
+            "isAbout": "dcscr099"
+        },
+        {
+            "variableName": "dcscr100",
+            "isAbout": "dcscr100"
+        },
+        {
+            "variableName": "dcscr101",
+            "isAbout": "dcscr101"
+        },
+        {
+            "variableName": "dcscr102a",
+            "isAbout": "dcscr102a"
+        },
+        {
+            "variableName": "dcscr102b",
+            "isAbout": "dcscr102b"
+        },
+        {
+            "variableName": "dcscr102c",
+            "isAbout": "dcscr102c"
+        },
+        {
+            "variableName": "dcscr102d",
+            "isAbout": "dcscr102d"
+        },
+        {
+            "variableName": "dcscr103",
+            "isAbout": "dcscr103"
+        },
+        {
+            "variableName": "dcscr104",
+            "isAbout": "dcscr104"
+        },
+        {
+            "variableName": "dcscr105",
+            "isAbout": "dcscr105"
+        },
+        {
+            "variableName": "dcscr106",
+            "isAbout": "dcscr106"
+        },
+        {
+            "variableName": "cscr44",
+            "isAbout": "cscr44"
+        },
+        {
+            "variableName": "dcscr107",
+            "isAbout": "dcscr107"
+        },
+        {
+            "variableName": "cscr46",
+            "isAbout": "cscr46"
+        },
+        {
+            "variableName": "dcscr108",
+            "isAbout": "dcscr108"
+        },
+        {
+            "variableName": "dcscr109",
+            "isAbout": "dcscr109"
+        },
+        {
+            "variableName": "dcscr110",
+            "isAbout": "dcscr110"
+        },
+        {
+            "variableName": "dcscr111",
+            "isAbout": "dcscr111"
+        },
+        {
+            "variableName": "dcscr112",
+            "isAbout": "dcscr112"
+        },
+        {
+            "variableName": "dcscr113",
+            "isAbout": "dcscr113"
+        },
+        {
+            "variableName": "dcscr114",
+            "isAbout": "dcscr114"
+        },
+        {
+            "variableName": "dcscr115",
+            "isAbout": "dcscr115"
+        },
+        {
+            "variableName": "dcscr116",
+            "isAbout": "dcscr116"
+        },
+        {
+            "variableName": "dcscr117",
+            "isAbout": "dcscr117"
+        },
+        {
+            "variableName": "dcscr118",
+            "isAbout": "dcscr118"
+        },
+        {
+            "variableName": "dcscr119",
+            "isAbout": "dcscr119"
+        },
+        {
+            "variableName": "dcscr120",
+            "isAbout": "dcscr120"
+        },
+        {
+            "variableName": "dcscr121",
+            "isAbout": "dcscr121"
+        },
+        {
+            "variableName": "dcscr122",
+            "isAbout": "dcscr122"
+        },
+        {
+            "variableName": "dcscr123",
+            "isAbout": "dcscr123"
+        },
+        {
+            "variableName": "dcscr124",
+            "isAbout": "dcscr124"
+        },
+        {
+            "variableName": "dcscr125",
+            "isAbout": "dcscr125"
+        },
+        {
+            "variableName": "dcscr126",
+            "isAbout": "dcscr126"
+        },
+        {
+            "variableName": "dcscr127",
+            "isAbout": "dcscr127"
+        },
+        {
+            "variableName": "dcscr128",
+            "isAbout": "dcscr128"
+        },
+        {
+            "variableName": "dcscr129",
+            "isAbout": "dcscr129"
+        },
+        {
+            "variableName": "dcscr130",
+            "isAbout": "dcscr130"
+        },
+        {
+            "variableName": "dcscr131",
+            "isAbout": "dcscr131"
+        },
+        {
+            "variableName": "dcscr132",
+            "isAbout": "dcscr132"
+        },
+        {
+            "variableName": "dcscr133",
+            "isAbout": "dcscr133"
+        },
+        {
+            "variableName": "dcscr134",
+            "isAbout": "dcscr134"
+        },
+        {
+            "variableName": "dcscr135",
+            "isAbout": "dcscr135"
+        },
+        {
+            "variableName": "dcscr136",
+            "isAbout": "dcscr136"
+        },
+        {
+            "variableName": "dcscr137",
+            "isAbout": "dcscr137"
+        },
+        {
+            "variableName": "dcscr138",
+            "isAbout": "dcscr138"
+        },
+        {
+            "variableName": "dcscr139",
+            "isAbout": "dcscr139"
+        },
+        {
+            "variableName": "dcscr140",
+            "isAbout": "dcscr140"
+        },
+        {
+            "variableName": "dcscr141",
+            "isAbout": "dcscr141"
+        },
+        {
+            "variableName": "dcscr142",
+            "isAbout": "dcscr142"
+        },
+        {
+            "variableName": "dcscr142a",
+            "isAbout": "dcscr142a"
+        },
+        {
+            "variableName": "dcscr143",
+            "isAbout": "dcscr143"
+        },
+        {
+            "variableName": "dcscr144",
+            "isAbout": "dcscr144"
+        },
+        {
+            "variableName": "dcscr144a",
+            "isAbout": "dcscr144a"
+        },
+        {
+            "variableName": "dcscr145",
+            "isAbout": "dcscr145"
+        },
+        {
+            "variableName": "dcscr146",
+            "isAbout": "dcscr146"
+        },
+        {
+            "variableName": "dcscr148",
+            "isAbout": "dcscr148"
+        },
+        {
+            "variableName": "dcscr149",
+            "isAbout": "dcscr149"
+        },
+        {
+            "variableName": "dcscr150",
+            "isAbout": "dcscr150"
+        },
+        {
+            "variableName": "dcscr151",
+            "isAbout": "dcscr151"
+        }
+    ],
+    "ui": {
+        "order": [
+            "dcscr005",
+            "dcscr006",
+            "dcscr007",
+            "dcscr008",
+            "dcscr009",
+            "dcscr010",
+            "dcscr011",
+            "dcscr012",
+            "dcscr013",
+            "cscr4",
+            "dcscr014",
+            "dcscr015",
+            "dcscr016",
+            "dcscr017",
+            "dcscr018",
+            "dcscr019",
+            "dcscr020",
+            "dcscr021",
+            "dcscr022",
+            "dcscr023",
+            "dcscr024",
+            "dcscr025",
+            "dcscr026",
+            "dcscr027",
+            "dcscr028",
+            "dcscr029",
+            "dcscr030",
+            "dcscr031",
+            "dcscr032",
+            "dcscr033",
+            "dcscr034",
+            "dcscr035",
+            "dcscr036",
+            "dcscr037",
+            "dcscr038",
+            "dcscr039",
+            "dcscr040",
+            "dcscr041",
+            "dcscr042",
+            "dcscr043",
+            "dcscr044",
+            "dcscr045",
+            "dcscr046",
+            "dcscr047",
+            "dcscr048",
+            "dcscr049",
+            "dcscr050",
+            "dcscr051",
+            "dcscr052",
+            "dcscr053",
+            "dcscr054",
+            "dcscr055",
+            "dcscr056",
+            "dcscr057",
+            "dcscr058",
+            "dcscr059",
+            "dcscr060",
+            "dcscr061",
+            "dcscr062",
+            "dcscr063",
+            "dcscr064",
+            "dcscr065",
+            "dcscr066",
+            "dcscr067",
+            "dcscr068",
+            "dcscr069",
+            "dcscr070",
+            "dcscr071",
+            "dcscr072",
+            "dcscr073",
+            "dcscr074",
+            "dcscr075",
+            "dcscr076",
+            "dcscr077",
+            "dcscr078",
+            "dcscr079",
+            "dcscr080",
+            "dcscr081",
+            "dcscr082",
+            "dcscr083",
+            "dcscr084",
+            "dcscr085",
+            "dcscr086",
+            "dcscr087",
+            "dcscr088",
+            "dcscr089",
+            "dcscr090",
+            "dcscr091",
+            "dcscr092",
+            "dcscr093",
+            "dcscr094",
+            "dcscr095a",
+            "dcscr095b",
+            "dcscr095c",
+            "dcscr095d",
+            "cscr40",
+            "dcscr096",
+            "dcscr097",
+            "dcscr098",
+            "dcscr099",
+            "dcscr100",
+            "dcscr101",
+            "dcscr102a",
+            "dcscr102b",
+            "dcscr102c",
+            "dcscr102d",
+            "dcscr103",
+            "dcscr104",
+            "dcscr105",
+            "dcscr106",
+            "cscr44",
+            "dcscr107",
+            "cscr46",
+            "dcscr108",
+            "dcscr109",
+            "dcscr110",
+            "dcscr111",
+            "dcscr112",
+            "dcscr113",
+            "dcscr114",
+            "dcscr115",
+            "dcscr116",
+            "dcscr117",
+            "dcscr118",
+            "dcscr119",
+            "dcscr120",
+            "dcscr121",
+            "dcscr122",
+            "dcscr123",
+            "dcscr124",
+            "dcscr125",
+            "dcscr126",
+            "dcscr127",
+            "dcscr128",
+            "dcscr129",
+            "dcscr130",
+            "dcscr131",
+            "dcscr132",
+            "dcscr133",
+            "dcscr134",
+            "dcscr135",
+            "dcscr136",
+            "dcscr137",
+            "dcscr138",
+            "dcscr139",
+            "dcscr140",
+            "dcscr141",
+            "dcscr142",
+            "dcscr142a",
+            "dcscr143",
+            "dcscr144",
+            "dcscr144a",
+            "dcscr145",
+            "dcscr146",
+            "dcscr148",
+            "dcscr149",
+            "dcscr150",
+            "dcscr151"
+        ],
+        "shuffle": false,
+        "visibility": {
+            "dcscr005": true,
+            "dcscr006": " dcscr005   == '1'",
+            "dcscr007": " dcscr005   == '1'",
+            "dcscr008": " dcscr005   == '1'",
+            "dcscr009": " dcscr005   == '1'",
+            "dcscr010": " dcscr005   == '1'",
+            "dcscr011": " dcscr010   == '1'",
+            "dcscr012": " dcscr005   == '0' ||  dcscr010   == '0'",
+            "dcscr013": " dcscr012   == '1'",
+            "cscr4": true,
+            "dcscr014": true,
+            "dcscr015": true,
+            "dcscr016": true,
+            "dcscr017": true,
+            "dcscr018": true,
+            "dcscr019": true,
+            "dcscr020": true,
+            "dcscr021": true,
+            "dcscr022": true,
+            "dcscr023": true,
+            "dcscr024": true,
+            "dcscr025": true,
+            "dcscr026": true,
+            "dcscr027": true,
+            "dcscr028": true,
+            "dcscr029": true,
+            "dcscr030": true,
+            "dcscr031": true,
+            "dcscr032": true,
+            "dcscr033": true,
+            "dcscr034": true,
+            "dcscr035": true,
+            "dcscr036": true,
+            "dcscr037": true,
+            "dcscr038": true,
+            "dcscr039": true,
+            "dcscr040": true,
+            "dcscr041": true,
+            "dcscr042": true,
+            "dcscr043": true,
+            "dcscr044": true,
+            "dcscr045": true,
+            "dcscr046": true,
+            "dcscr047": true,
+            "dcscr048": true,
+            "dcscr049": true,
+            "dcscr050": true,
+            "dcscr051": true,
+            "dcscr052": true,
+            "dcscr053": true,
+            "dcscr054": true,
+            "dcscr055": true,
+            "dcscr056": true,
+            "dcscr057": true,
+            "dcscr058": true,
+            "dcscr059": true,
+            "dcscr060": true,
+            "dcscr061": true,
+            "dcscr062": true,
+            "dcscr063": true,
+            "dcscr064": true,
+            "dcscr065": true,
+            "dcscr066": true,
+            "dcscr067": true,
+            "dcscr068": true,
+            "dcscr069": true,
+            "dcscr070": true,
+            "dcscr071": true,
+            "dcscr072": true,
+            "dcscr073": true,
+            "dcscr074": true,
+            "dcscr075": true,
+            "dcscr076": true,
+            "dcscr077": true,
+            "dcscr078": true,
+            "dcscr079": true,
+            "dcscr080": true,
+            "dcscr081": true,
+            "dcscr082": true,
+            "dcscr083": true,
+            "dcscr084": true,
+            "dcscr085": true,
+            "dcscr086": true,
+            "dcscr087": true,
+            "dcscr088": true,
+            "dcscr089": true,
+            "dcscr090": true,
+            "dcscr091": true,
+            "dcscr092": true,
+            "dcscr093": true,
+            "dcscr094": true,
+            "dcscr095a": true,
+            "dcscr095b": true,
+            "dcscr095c": true,
+            "dcscr095d": true,
+            "cscr40": true,
+            "dcscr096": true,
+            "dcscr097": true,
+            "dcscr098": true,
+            "dcscr099": true,
+            "dcscr100": true,
+            "dcscr101": true,
+            "dcscr102a": true,
+            "dcscr102b": true,
+            "dcscr102c": true,
+            "dcscr102d": true,
+            "dcscr103": true,
+            "dcscr104": true,
+            "dcscr105": true,
+            "dcscr106": true,
+            "cscr44": true,
+            "dcscr107": true,
+            "cscr46": true,
+            "dcscr108": true,
+            "dcscr109": true,
+            "dcscr110": true,
+            "dcscr111": true,
+            "dcscr112": true,
+            "dcscr113": true,
+            "dcscr114": true,
+            "dcscr115": true,
+            "dcscr116": true,
+            "dcscr117": true,
+            "dcscr118": true,
+            "dcscr119": true,
+            "dcscr120": true,
+            "dcscr121": true,
+            "dcscr122": true,
+            "dcscr123": true,
+            "dcscr124": true,
+            "dcscr125": true,
+            "dcscr126": true,
+            "dcscr127": true,
+            "dcscr128": true,
+            "dcscr129": true,
+            "dcscr130": true,
+            "dcscr131": true,
+            "dcscr132": true,
+            "dcscr133": true,
+            "dcscr134": true,
+            "dcscr135": true,
+            "dcscr136": true,
+            "dcscr137": true,
+            "dcscr138": true,
+            "dcscr139": true,
+            "dcscr140": true,
+            "dcscr141": true,
+            "dcscr142": true,
+            "dcscr142a": true,
+            "dcscr143": true,
+            "dcscr144": true,
+            "dcscr144a": true,
+            "dcscr145": true,
+            "dcscr146": true,
+            "dcscr148": true,
+            "dcscr149": true,
+            "dcscr150": true,
+            "dcscr151": true
+        }
+    }
+}
