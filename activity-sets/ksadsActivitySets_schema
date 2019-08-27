@@ -1,6 +1,6 @@
 {
   "@context": [ "https://shnizzedy.github.io/KSADS-Mindlogger-Test/schema-standardization/master/contexts/generic",
-                "https://shnizzedy.github.io/KSADS-Mindlogger-Test/master/activity-sets/ksadsActivitySets_context"
+                "https://shnizzedy.github.io/KSADS-Mindlogger-Test/activity-sets/ksadsActivitySets_context"
                 ],
   "@type": "https://shnizzedy.github.io/KSADS-Mindlogger-Test/schema-standardization/master/schemas/ActivitySet",
   "@id": "ksads_schema",
@@ -13,7 +13,7 @@
     "order": [
       "register_interview_child_psychiatric",
       "screener",
-      "timeline"                                               
+      "timeline"
       ],
     "shuffle": false
   }
